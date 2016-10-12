@@ -1,0 +1,30 @@
+@import 'https://fonts.googleapis.com/css?family=Lalezar';
+body {
+  color: gray;
+  font-family: 'Lalezar', cursive;
+  font-size: 15px;
+}
+
+h1 {
+  color: red;
+}
+
+.experience {
+  color: red;
+  display: none;
+}
+
+.thumbnail-picture {
+  width: 50%;
+  height: auto;
+  border-radius: 25px;
+  box-shadow: 40px 43px 96px -30px rgba(0, 0, 0, 0.75);
+}
+
+.about {
+  color: blue;
+}
+
+a {
+  color: gray;
+}
